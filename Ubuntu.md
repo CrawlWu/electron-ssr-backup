@@ -19,7 +19,7 @@
 
 `electron-ssr`
 
-1.系统需要安装Python2.7，一般系统自带，我是最简化安装没有Python环境，软件运行报错。安装Python之后解决
+1.系统需要安装Python2.7，一般系统自带，我是最简化安装没有Python环境，软件运行报错。安装Python之后解决(_对于20.04之后的最小化安装的系统，往往安装一下Python2即可_)
 
 `sudo apt install python`
 
